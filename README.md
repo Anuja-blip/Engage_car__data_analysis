@@ -107,7 +107,7 @@ Sort the cars based on price or make or body type
 
 
     • if you sort by price  then you get a list car brands under your budget and to get the details of the any  car under your budget enter the make , model , variant of the that car 
-    • if you sort by make you get a list of cars under that brand
+    • if you sort by make you get a list of cars under that brand and furthur you can sort the price and other columns in the list
     •  same for car body type
  
 
