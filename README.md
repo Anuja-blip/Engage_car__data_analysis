@@ -24,7 +24,7 @@ Install libraries with
 
 1.AgGrid
 ```bash
-  pip Install streamlit-AgGrid
+  pip Install streamlit-aggrid
 ```
 2. Pandas
   ```bash
